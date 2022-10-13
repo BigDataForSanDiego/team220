@@ -3,7 +3,7 @@
 #### Team Number: 220  
 
 #### Team Name: Turtle    
-![turtle](https://user-images.githubusercontent.com/23516216/195511513-eacb62a6-82a2-49e9-9206-1d0b42023358.png){height="24px" width="24px"}
+![turtle](https://user-images.githubusercontent.com/23516216/195511513-eacb62a6-82a2-49e9-9206-1d0b42023358.png){height=24 width=24}
 
   
 #### Your team’s hackathon idea in One sentence:
