@@ -11,7 +11,7 @@
 #### A visual
 ![image](https://user-images.githubusercontent.com/84649546/194731156-5298cbe4-0685-46b7-8fda-08c7b8af95b9.png)
 
-![image](https://user-images.githubusercontent.com/84649546/195510090-b7b70ea3-919a-4195-b83a-39aac6c63e42.png)
+
 
 
 #### Hackathon Theme(s) (check a box(es))
