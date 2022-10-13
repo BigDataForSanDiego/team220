@@ -5,8 +5,7 @@
 #### Team Name: Turtle    
   
 #### Your team’s hackathon idea in One sentence:
-##### A multi-lingual mobile app, used in medical offices to check in patients who speak different native languages.  
-
+##### A multi-lingual mobile app, used by medical offices to translate patient forms, documents, and voice.   
 
 
 #### A visual
