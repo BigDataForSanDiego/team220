@@ -11,7 +11,7 @@
 
 
 #### A visual
-![TeamTurtle](https://user-images.githubusercontent.com/114720772/195996910-3c43b6c8-5bb3-49ce-8540-ac5dd66e953f.png)
+<img src = "https://user-images.githubusercontent.com/114720772/195996910-3c43b6c8-5bb3-49ce-8540-ac5dd66e953f.png" width="100" height="100">
 
 
  
