@@ -3,7 +3,7 @@
 #### Team Number: 220  
 
 #### Team Name: Turtle    
-![turtle](https://user-images.githubusercontent.com/23516216/195511513-eacb62a6-82a2-49e9-9206-1d0b42023358.png)
+<img src = "https://user-images.githubusercontent.com/23516216/195511513-eacb62a6-82a2-49e9-9206-1d0b42023358.png" width="250" height="250">
 
   
 #### Your team’s hackathon idea in One sentence:
@@ -11,7 +11,7 @@
 
 
 #### A visual
-<img src = "https://user-images.githubusercontent.com/114720772/195996910-3c43b6c8-5bb3-49ce-8540-ac5dd66e953f.png" width="100" height="100">
+<img src = "https://user-images.githubusercontent.com/114720772/195996910-3c43b6c8-5bb3-49ce-8540-ac5dd66e953f.png" width="250" height="250">
 
 
  
