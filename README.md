@@ -11,10 +11,10 @@
 
 
 #### A visual
-![image](https://user-images.githubusercontent.com/84649546/194731156-5298cbe4-0685-46b7-8fda-08c7b8af95b9.png)
+![TeamTurtle](https://user-images.githubusercontent.com/114720772/195996910-3c43b6c8-5bb3-49ce-8540-ac5dd66e953f.png)
 
 
-
+ 
 
 #### Hackathon Theme(s) (check a box(es))
 - [ ] Artificial Intelligence/Machine Learning 
